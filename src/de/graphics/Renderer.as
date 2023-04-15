@@ -81,7 +81,7 @@ package de.graphics
                 case Renderer.CAMERA_TYPE_BINDING:
                     return;
                 case Renderer.CAMERA_TYPE_ADVANCED:
-
+                    
                     return;
                 default:
                     return;
